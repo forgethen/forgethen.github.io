@@ -1,6 +1,6 @@
 {
   "events": {
-    {
+    [{
       "event": "1",
       "title": "Событие 1",
       "date": "2019-12-1",
@@ -70,6 +70,6 @@
       "type": null,
       "placeevent": null,
       "placeName": "",
-    }
+    }]
   }
 }
