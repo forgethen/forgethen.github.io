@@ -1,77 +1,76 @@
 {
-    "2/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
+  "events": {
+    [{
+      "event": "1",
+      "title": "Событие 1",
+      "date": "2019-12-1",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "2",
+      "title": "Событие 2",
+      "date": "2019-12-2",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "3",
+      "title": "Событие 3",
+      "date": "2019-12-3",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "4",
+      "title": "Событие 4",
+      "date": "2019-12-4",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "5",
+      "title": "Событие 5",
+      "date": "2019-12-5",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "6",
+      "title": "Событие 6",
+      "date": "2019-12-6",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
+    }, {
+      "event": "7",
+      "title": "Событие 7",
+      "date": "2019-12-7",
+      "previewText": "Красткое описание мероприятия",
+      "location": "Место проведения мероприятия",
+      "allday": true,
+      "type": null,
+      "placeevent": null,
+      "placeName": "",
     }
- },
- {
-    "4/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- },
- {
-    "5/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- },
- {
-    "7/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- },
- {
-    "812/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- },
- {
-    "9/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- },
- {
-    "12/12/2019": {
-        "type":"Conference",
-        "event__title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "event__location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "event__previewText": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- }
+    ]
+  }
+}
